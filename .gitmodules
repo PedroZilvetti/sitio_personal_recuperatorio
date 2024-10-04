@@ -1,0 +1,6 @@
+[submodule "pedro_zilvetti/src/practicas/mondrian"]
+	path = pedro_zilvetti/src/practicas/mondrian
+	url = git@github.com:PedroZilvetti/mondrian.git
+[submodule "pedro_zilvetti/src/practicas/maquetacion"]
+	path = pedro_zilvetti/src/practicas/maquetacion
+	url = git@github.com:PedroZilvetti/maquetacion.git
